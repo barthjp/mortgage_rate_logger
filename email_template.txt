@@ -1,0 +1,2 @@
+Gretings from the Mortgage Rate Tracker
+NFCU VA IRRRL Rate/APR = ${rate}/${apr}
